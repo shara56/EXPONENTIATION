@@ -20,16 +20,9 @@ x=int(input())
 y=int(input())
 print("Exponentiation of a given number:", x**y) 
 ```
-/*
-Program to find the exponentiation of a number.
-Developed by: 
-RegisterNumber: 
-*/
-```
 
 ## Output:
-
-/home/sec/Pictures/Screenshots/exponentia.png
+![exponentiation1](https://user-images.githubusercontent.com/113497104/192079979-5733eb77-a965-471b-8b70-d228f5200a3a.png)
 
 ## Result:
 Thus the program to find the exponentiation of a given number is written and verified using python programming.
